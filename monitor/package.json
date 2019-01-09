@@ -1,0 +1,16 @@
+{
+  "name": "dncash-io-utils-monitor",
+  "version": "1.0.0",
+  "description": "LED activity monitor",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thorsten Liese",
+  "license": "ISC",
+  "dependencies": {
+    "https-proxy-agent": "^2.2.1",
+    "node-fetch": "^2.3.0",
+    "ws": "^6.1.2"
+  }
+}
