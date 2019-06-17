@@ -1,0 +1,16 @@
+{
+  "name": "i2ctag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "i2ctag.js",
+  "dependencies": {
+    "i2c-bus": "^4.0.10",
+    "ndef": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thorsten Liese",
+  "license": "ISC"
+}
